@@ -2,19 +2,19 @@
 title: Setting up and managing your GitHub profile
 shortTitle: Profiles
 redirect_from:
-  - /categories/setting-up-and-managing-your-github-profile
+ 1 - /categories/setting-up-and-managing-your-github-profile
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: '1'
+  enterprise-server: '1'
+  github-ae: '1'
 ---
 
 
 ### Table of Contents
 
-{% topic_link_in_list /customizing-your-profile %}
-    {% link_in_list /about-your-profile %}
-    {% link_in_list /about-your-organizations-profile %}
+{% topic_link_in_list /customizing-your-profile1%}
+    {% link_in_list /about-your-profile100%}
+    {% link_in_list /about-your-organisations-profile %}
     {% link_in_list /personalizing-your-profile %}
     {% link_in_list /managing-your-profile-readme %}
     {% link_in_list /pinning-items-to-your-profile %}
